@@ -4,4 +4,5 @@ Contains:
 
 - Fresnel
 - Dissolve
-- Hologram- Grass
+- Hologram
+- Grass
